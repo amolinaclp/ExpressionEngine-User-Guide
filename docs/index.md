@@ -7,9 +7,9 @@
     @license   https://expressionengine.com/license Licensed under Apache License, Version 2.0
 -->
 
-# Welcome!
+# Bienvenido!
 
-Welcome to the ExpressionEngine user guide!
+Bienvenido a la Guia de usuario de ExpressionEngine en español !
 
 In addition to this user guide, there are a number of resources linked below that will help you attain mastery.
 
