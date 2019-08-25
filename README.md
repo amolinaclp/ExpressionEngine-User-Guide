@@ -1,4 +1,4 @@
-# ExpressionEngine® User Guide
+# Manual de Usuario ExpressionEngine®
 
 The public user guide repository for the [ExpressionEngine](https://expressionengine.com) project. The online version of the user guide is hosted at [docs.expressionengine.com](https://docs.expressionengine.com).
 
